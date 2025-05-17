@@ -100,6 +100,6 @@ service-worker: true
 friends: [
   {
     title: "DCS World官网",
-    heref: "https://www.digitalcombatsimulator.com/cn/"
+    href: "https://www.digitalcombatsimulator.com/cn/"
   }
 ]
